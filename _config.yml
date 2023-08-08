@@ -38,7 +38,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "zhengqi.tang@outlook.com"
+  email: "zhengqi-tang@shu.edu.cn"
   github: https://github.com/TGF-B
   twitter: https://twitter.com/LMcDonaldP
 #  medium: yourname
@@ -57,7 +57,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: https://scholar.google.com/citations?user=GKCWBScAAAAJ&hl=zh-CN
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -71,8 +71,8 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  linkedin: true
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
